@@ -47,4 +47,4 @@ The project is divided into two main parts:
 To run the models, open the provided Jupyter notebook, execute each cell in sequence, and evaluate the results based on the performance metrics.
 
 ## Acknowledgments
-This assignment is intended to demonstrate the fundamentals of linear and logistic regression. Data has been provided to facilitate model implementation and evaluation.
+This project is intended to demonstrate the fundamentals of linear and logistic regression. Data has been provided to facilitate model implementation and evaluation.
