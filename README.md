@@ -1,4 +1,4 @@
-# Machine Learning Assignment - Linear and Logistic Regression Models
+# Linear and Logistic Regression Models
 
 This project implements linear and logistic regression models from scratch using gradient descent for predictions based on structured datasets. The aim is to predict housing prices and classify food grain species based on various input features.
 
